@@ -3,7 +3,7 @@ layout: about
 title: About
 ---
 
-## Welcome tto GREACH TECH
+## Welcome to GREACH TECH
 
 If you're new to computers, we help teaching you the basics *Microsoft office packages (Word, Excel etc), *Graphics (Corel Draw, Photoshop, flyers, 2D & 3D logos, IV etc.) and programming *Web Design (WordPress, HTML, CSS, PHP), that is what we are here for to elevate you REACH your goal's techwise.
 
