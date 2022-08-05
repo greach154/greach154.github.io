@@ -40,7 +40,7 @@ author: Eyefian G. Hope
 #   "Copyright (c) 2017-{currentYear} <a href="https://example.com">{author}</a>"
 #   "Copyright © 2017-2021 Foobar"
 #
-copyright: "Unpublished Work (cleft) 2022-{currentYear} {Eyefian G. Hope}"
+copyright: "Unpublished Work (cleft) -{currentYear} {Eyefian G. Hope}"
 
 description: >- # this means to ignore newlines until "baseurl:"
   We offer you the services that we elevate you to reach your goals techwise ranging from learning our courses and services
