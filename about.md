@@ -11,4 +11,4 @@ Over the years, we have helped brands especially small-scale and medium-sized bu
 
  At GREACH, we listen to your ideas, ask questions about what you want or what you are trying to accomplish, and make sure that you get what you requested for, which is our goal, to elevate you techwise in reaching your goal's.
  
- Interested in any of our services, check our [website] https://greach154.github.io/ Like our services, [send us email] @ greach154@gmail.com
+ Interested in any of our services, check our website <https://greach154.github.io/> Like our services, send us email @ <greach154@gmail.com>
